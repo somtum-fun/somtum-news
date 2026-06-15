@@ -35,7 +35,7 @@ We've improved the beatmapsets page. Players can now edit their own beatmap desc
 
 ![beatmapsetsdesc](https://i.postimg.cc/kX3DYN5Y/image.png)
 
-With beatmap discussion, you can now hype your favorite beatmaps, see nominations, and post problems, suggestions, and praise — just like osu!!
+With beatmap discussion, you can now hype your favorite beatmaps, see nominations, and post problems, suggestions, and praise — just like osu!
 
 ![beatmapdis](https://i.postimg.cc/dtwwT533/image.png)
 ![comment](https://i.postimg.cc/3wpc1Hfc/image.png)

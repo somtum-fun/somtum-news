@@ -27,7 +27,7 @@ We'll do our best to make the anti-cheat as good as possible. We don't want to r
 
 ## 3. We now support updating beatmap files! (osu! client upload only)
 
-We've been working hard to figure out how osu!osz2 works. Previously, beatmap uploaders had to remove their beatmap from osu!somtum and re-upload it, which wasn't ideal. So we've made some backend changes that let you update a beatmap (.osu) without removing and re-uploading it — just like osu!!
+We've been working hard to figure out how osu!osz2 works. Previously, beatmap uploaders had to remove their beatmap from osu!somtum and re-upload it, which wasn't ideal. So we've made some backend changes that let you update a beatmap (.osu) without removing and re-uploading it — just like osu!
 
 ## 4. Beatmap page update
 

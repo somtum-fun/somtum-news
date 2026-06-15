@@ -4,12 +4,12 @@ Hi players! blueskychan_ here! We're rolling out some updates to osu!somtum to m
 
 A week ago we re-opened osu!somtum, and we've been getting a lot of feedback and help. Thanks, everyone! Now let's get to the topics.
 
-## 1. We now support donations via Stripe!
+## 1. We now support purchase premium via Stripe!
 
-After experimenting with the Stripe gateway, we officially support donations through Stripe!
+After experimenting with the Stripe gateway, we officially support purchase premium through Stripe!
 
-![viastripe](https://i.postimg.cc/PrfXLSV0/image.png)
-![checkout](https://i.postimg.cc/BZpsGxZZ/image.png)
+![viastripe](https://i.postimg.cc/g0pqc0fS/image.png)
+![checkout](https://i.postimg.cc/sfbnd3Dq/image.png)
 
 If Stripe won't accept your card, please try another card (this is usually a general Stripe issue) or try another option in Stripe. We may enable more options soon, but for now we only accept Mastercard and Visa.
 

@@ -27,15 +27,15 @@ We'll do our best to make the anti-cheat as good as possible. We don't want to r
 
 ## 3. We now support updating beatmap files! (osu! client upload only)
 
-We've been working hard to figure out how osu!osz2 works. Previously, beatmap uploaders had to remove their beatmap from osu!somtum and re-upload it, which wasn't ideal. So we've made some backend changes that let you update a beatmap (.osu) without removing and re-uploading it — just like osu!Bancho!
+We've been working hard to figure out how osu!osz2 works. Previously, beatmap uploaders had to remove their beatmap from osu!somtum and re-upload it, which wasn't ideal. So we've made some backend changes that let you update a beatmap (.osu) without removing and re-uploading it — just like osu!!
 
 ## 4. Beatmap page update
 
-We've improved the beatmapsets page. Players can now edit their own beatmap descriptions, just like on osu!Bancho.
+We've improved the beatmapsets page. Players can now edit their own beatmap descriptions, just like on osu!.
 
 ![beatmapsetsdesc](https://i.postimg.cc/kX3DYN5Y/image.png)
 
-With beatmap discussion, you can now hype your favorite beatmaps, see nominations, and post problems, suggestions, and praise — just like osu!Bancho!
+With beatmap discussion, you can now hype your favorite beatmaps, see nominations, and post problems, suggestions, and praise — just like osu!!
 
 ![beatmapdis](https://i.postimg.cc/dtwwT533/image.png)
 ![comment](https://i.postimg.cc/3wpc1Hfc/image.png)

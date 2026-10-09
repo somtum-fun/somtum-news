@@ -1,6 +1,6 @@
 {
-  "status": "info",
-  "message": "Vote us on osu server list for 1 day free supporter! (per one vote)",
-  "link": "https://osu-server-list.com/server/somtum",
+  "status": "error",
+  "message": "Password reset are temporarily unavailable, please contact us in discord for any password reset request for now.",
+  "link": "https://discord.gg/U6Ztb3mRyz",
   "display": true
 }
